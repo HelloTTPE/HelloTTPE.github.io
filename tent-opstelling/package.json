@@ -2,7 +2,7 @@
   "name": "tent-opstelling",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<jouw-gebruikersnaam>.github.io/<repository-naam>",
+  "homepage": "https://hellottpe.github.io/tent-opstelling",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
